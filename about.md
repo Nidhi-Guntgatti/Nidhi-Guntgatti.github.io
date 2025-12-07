@@ -4,7 +4,7 @@ layout: page
 permalink: /about/index.html
 ---
 
-![greeting gif](https://github.com/alansmathew/alansmathew/raw/master/lang.gif)
+![greeting gif](https://github.com/Nidhi-Guntgatti/nidhiguntgatti.github.io/assets/images/greeting.gif)
 
 ---  **About me**
 
