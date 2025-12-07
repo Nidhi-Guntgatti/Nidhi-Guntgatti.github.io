@@ -1187,21 +1187,8 @@ pre {
           transition: all ease-in-out 0.2s;
 }
 
-.about-content img {
-  max-width: 400px !important;
-  width: 400px !important;
-  height: auto !important;
-}
-
-.about-gif {
-  max-width: 400px !important;
-  width: 400px !important;
-  display: block;
-  margin: 0 auto;
-}
-
 .about-container img {
-    width: 500px !important;
-    max-width: 500px !important;
+    width: 600px !important;
+    max-width: 600px !important;
     height: auto !important;
 }
