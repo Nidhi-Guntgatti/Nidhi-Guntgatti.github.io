@@ -7,7 +7,7 @@ permalink: /blog/index.html
 <img src="{{ site.url }}/{{ site.picture }}" style="width:300px;"/>
 
 <p align="center">
-  <img width="100%" src="https://github.com/Nidhi-Guntgatti/nidhiguntgatti.github.io/assets/images/greeting.gif" alt="greeting image here" />
+  <img width="600px" src="https://github.com/Nidhi-Guntgatti/nidhiguntgatti.github.io/assets/images/greeting.gif" alt="greeting image here" />
 </p>
 
 ---  **About me**
