@@ -8,7 +8,7 @@ permalink: /blog/index.html
 
 <img src="https://nidhi-guntgatti.github.io/assets/images/greeting.gif" 
      alt="greeting gif"
-     width="300" />
+     width="500" />
 
 
 ---  **About me**
