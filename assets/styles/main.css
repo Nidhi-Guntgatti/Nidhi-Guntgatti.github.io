@@ -1199,3 +1199,9 @@ pre {
   display: block;
   margin: 0 auto;
 }
+
+.about-container img {
+    width: 350px !important;
+    max-width: 350px !important;
+    height: auto !important;
+}
