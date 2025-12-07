@@ -1188,8 +1188,14 @@ pre {
 }
 
 .about-content img {
-    width: 400px !important;
-    height: auto !important;
-    display: block;
-    margin: 0 auto;
+  max-width: 400px !important;
+  width: 400px !important;
+  height: auto !important;
+}
+
+.about-gif {
+  max-width: 400px !important;
+  width: 400px !important;
+  display: block;
+  margin: 0 auto;
 }
