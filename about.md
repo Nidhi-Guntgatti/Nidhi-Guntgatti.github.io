@@ -1,12 +1,10 @@
 ---
 title: About
 layout: page
-permalink: /blog/index.html
+permalink: /about/index.html
 ---
 
-<p align="center">
-  <img width="600px" src="https://github.com/Nidhi-Guntgatti/nidhiguntgatti.github.io/assets/images/greeting.gif" alt="greeting image here" />
-</p>
+![greeting gif](https://github.com/alansmathew/alansmathew/raw/master/lang.gif)
 
 ---  **About me**
 
