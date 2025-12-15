@@ -4,7 +4,10 @@ layout: page
 permalink: /about/index.html
 ---
 
-<img src="/assets/images/greeting_about.gif" width="600">
+<img
+  src="/assets/images/greeting_about.gif"
+  style="max-width: 100%; width: 800px;"
+  alt="Greeting GIF">
 
 ---**About me**
 
