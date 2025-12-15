@@ -1186,3 +1186,9 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
+.about-gif {
+  max-width: 600px !important;
+  width: 600px !important;
+  display: block;
+  margin: 0 auto;
+}
