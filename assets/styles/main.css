@@ -1186,6 +1186,11 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
+.about-content img {
+  max-width: 400px !important;
+  width: 400px !important;
+  height: auto !important;
+}
 .about-gif {
   max-width: 600px !important;
   width: 600px !important;
