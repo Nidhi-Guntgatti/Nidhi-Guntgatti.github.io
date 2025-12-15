@@ -1192,3 +1192,8 @@ pre {
   display: block;
   margin: 0 auto;
 }
+.about-container img {
+    width: 800px !important;
+    max-width: 900px !important;
+    height: auto !important;
+}
