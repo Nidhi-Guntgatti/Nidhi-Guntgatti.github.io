@@ -3,74 +3,62 @@ title: Vitae
 layout: page
 permalink: /cv/index.html
 ---
-## Amoolya Srinivasa
-<!---[srinivasa.a@northeastern.edu](mailto:srinivasa.@northeastern.edu) --->
-Boston, MA
+## Nidhi Anil Guntgatti
+<!---[nidhiguntgatti@gmail.com](mailto:nidhiguntgatti@gmail.com) --->
+Bangalore, India
 ## Preface
-It is possible that my fascination for science began from my first glance through the microscope at Paramecium back in the biology lab at school. Since then I have shown a predilection to learn about the world imperceptible by human eyes. As I got older I was intrigued by the interrelation of biology with computation, mathematics and technology, which led me to be inspired by the vast field of bioinformatics that perfectly amalgamates two of my most passionate fields - computer science and biology. My aim is fueled by a conviction to make a dent, if not a difference, in the field of medical drug designing, machine learning in bioinformatics, stem cell and cancer therapeutics. 
+I still remember learning about the β-globin gene in school and how a single nucleotide change could lead to sickle cell anemia. That moment made me realize how biological outcomes are encoded in data at the molecular level. This fascination naturally led me to bioinformatics, a field that lies at the intersection of biology, computation, and data analysis, where such genetic information can be analyzed computationally. While bioinformatics remains my primary focus, my training in biotechnology has given me interdisciplinary exposure to microbiology, plant biotechnology, and biochemical engineering, broadening my understanding of biological systems without diverting from my computational focus. These experiences have strengthened my perspective and reinforced my motivation to pursue data-driven biological research. My aim is to apply bioinformatics to generate insights that support accessible, evidence-based healthcare solutions and contribute meaningfully to community-oriented biomedical research.
 
 ## Education
-***Masters — Bioinformatics*, Northeastern University**, Boston, MA. Sep 2021 - May 2023<br>
-***Bachelors — Biotechnology*, Dayananda Sagar College of Engineering**, Bangalore, India. Sep 2017 - Aug 2021<br>
+***Bachelors — Biotechnology*, Dayananda Sagar College of Engineering**, Bangalore, India. Nov 2021 - June 2025<br>
 
 ## Experience
-**NYU Langone Health, New York, NY, Aug 2023 - Present**<br>
-***Bioinformatics Programmer***, *[NYU Langone Health](https://med.nyu.edu/centers-programs/human-genetics-genomics/)*<br>
+**Clinical Research Laboratory (CRL), KIMS, Oct 2025 - Present**<br>
+***Bioinformatics Research Intern***<br>
 
-* Developing and implementing robust software for genomic and biological dataset analysis to generate new biological insights
-* Collaborating with bench scientists to understand and support their research goals, facilitating seamless integration of software tools into the biological research process
-* Creating and maintaining reliable pipelines for routine quality control and validation of data
+* Analyzed Illumina and Nanopore sequencing data for AMR surveillance of WHO-priority pathogens.
+* Built reproducible Nextflow pipelines for genome assembly and annotation on HPC (SLURM), using Docker and Conda for version control.
+* Developed custom R and Python workflows for statistical analysis of resistance, virulence, and serotype diversity.
+* Generated standardized outputs supporting peer-reviewed publications and international collaborations.
 
-**NextRNA Therapeutics, Boston, MA, Jan 2023 - Jul 2023**<br>
-***Computational Biology - Data Science Co-Op***, *[NextRNA Therapeutics](http://nextrna.com/)*<br>
+**Indian Institute of Science, Jan 2025 - May 2025**<br>
+***Research Data Intern***<br>
 
-* Executed advanced computational modeling techniques to drive target identification and drug discovery initiatives
-* Employed cutting-edge machine learning methodologies to develop complex networks for comprehensive gene expression analysis and facilitated patient stratification
-* Devised computational tools to design comprehensive analyses of RNA and protein secondary and tertiary structures, with a focus on facilitating the development of lncRNA-directed therapeutics
+* Executed high-pressure reactions (200–300°C, 10–20 bar), demonstrating proficiency with specialized laboratory equipment and safety protocols.
+* Analyzed products using GC-MS, achieving up to 95% yield and 90% selectivity, applying analytical instrumentation software and rigorous data analysis.
+* Optimized the synthesis of 5 catalysts using wet chemical and thermal treatments, showcasing assay optimization capabilities.
+* Assessed catalyst recyclability over 6 cycles, demonstrating strong organizational skills and attention to detail in tracking performance data.
   
-**Dong Theoretical and Computational Chemistry Lab, Boston, MA, Jul 2022 - Dec 2022**<br>
-***Masters Graduate Research Assistant***, *[The Dong Lab](https://sijiadong.com/)*<br>
+**Biocenter, Oct 2023 - Dec 2023**<br>
+***Anlytical Research Intern***<br>
 
-* Collaborated with the team on the design of a NoSQL database for enzymes with photoactivatable biocofactors
-* Utilized advanced Python programming skills to design and implement highly efficient scripts for automating the analysis of chemical names, reactions, solvents, and other small molecule nomenclatures from abstracts of research papers
-* Identified natural language processing techniques to extract and curate all possible combinations of enzymes and their corresponding substrates in the database, streamlining the process of data curation and analysis
+* Operated and maintained Gas Chromatography–Mass Spectrometry (GC-MS) and Liquid Chromatography–Mass Spectrometry (LC-MS) instruments, managing data for 15+ runs using specialized software.
+* Conducted soil analyses on 30+ samples to measure nutrient levels and organic carbon, applying standard laboratory calculations and procedures.
+* Developed nursery techniques including seed germination methods, vegetative propagation strategies and grafting skills.
 
-**Northestern University, Boston, MA, Jan 2022 - Dec 2022** <br>
-***Teaching Assistant***, *[Northeastern University](https://cos.northeastern.edu/master-of-science-in-bioinformatics/)*
-* Assessed, mentored and graded python scripts of over 80 Bioinformatics grad students for various Bioinformatics tasks and provided effective, timely feedback to help learn Python programming for Bioinformatics
-* Mentored and provided guidance to students, leveraging a deep understanding of their unique learning styles to facilitate their academic success
-* Demonstrated exemplary leadership skills by establishing three weekly office hours to provide academic support and address students' inquiries
-* Delivered engaging and informative lectures to the class, utilizing dynamic teaching techniques to promote active participation and foster a collaborative learning environment
+**KIMS Hospital and Research Centre, Sep 2022 - Dec 2022** <br>
+***Clinical Research Intern***<br>
 
-**RV College of Engineering, Bangalore, India, Aug 2020 - Dec 2020**<br>
-***Research Intern***, *[RVCE](https://www.rvce.edu.in/)* <br>
-* Conducted a thorough analysis of strategies to mitigate the undesirable side effects associated with conventional drug therapies
-*  Investigated 35 naturally occuring alternative drug molecules as a potential replacement for aspirin and other traditional medications in the treatment of cardiovascular diseases to advance patient outcomes through novel drug discovery research
-* Worked with university leadership to implement strategic national and global policies that impact and enhance the academic experience.
-
-**Sri Jayadeva Institute of Cardiovascular Sciences and Research, Bangalore, India, Jul 2019 - Oct 2019**<br>
-***Microbiology Intern***, *[Jayadeva hospital](http://jayadevacardiology.com/)*
-* Efficiently managed a high-volume workload of 100 patient samples per day at the hospital lab, performing a range of immunological, biochemical, serological and ELISA tests
-* Conducted detailed microscopic analyses of urine, nasal, and throat samples to identify the underlying causes of bacterial infections
+* Gained hands-on experience in a clinical microbiology lab, performing aseptic techniques, microbial cultures, and identifications using conventional and automated methods (VITEK®-2) for precise pathogen detection.
+* Executed 20+ immunoassays (ELISA, HIV Spot, HCV Spot) on 50+ patient samples, utilizing lab equipment to generate reliable diagnostic data critical for clinical research.
+* Maintained accurate laboratory records and adhered to biosafety and quality control protocols, ensuring data integrity and compliance with clinical laboratory standards.
 
 ## Skills
-**Programming:** Python, BioPython, R, SQL, UNIX/LINUX shell script, Nextflow<br>
-**Machine Learning Algorithms:** Linear/multiple regression, SVM, Neural networks(GNN, CNN, LSTM), Random forest, Logistic regression, knn regression, Naive Bayes, decision trees, RIPPER, Clustering techniques<br>
-**Data Analytics:** Binary and multiple classification models, multivariate analysis, time series models, Paraller computing, data visualization<br>
-**Bioinformatics:** RNA-Seq data analysis, Molecular dynamics simulation, Trimmomatic, Trinity, DESeq2, ClustalW, edgeR, GATK, BEAST, metagenomeSeq, PLINK, Sequence alignment, Transcriptome assembly, Phylogenetic analysis, Pipeline development, protein/nucleotide secondary and tertiary structure prediction and validation<br>
-
-## Publication
-Description of Paenibacillus yunnanensis sp. nov., Isolated from a Tepid Spring: Narsing Rao, M. P., Dong, Z. Y., **Amoolya, S.**, Neelavar, S., Liu, B. B., Guo, S. X., Hozzein, W., & Li, W. J. *Current Microbiology*. **2020**; [https://doi.org/10.1007/s00284-020-02087-z](https://doi.org/10.1007/s00284-020-02087-z)<br>
+**Programming:** Python, BioPython, R, SQL, UNIX/LINUX shell script, Nextflow, HPC (SLURM), Docker, Conda<br>
+**Molecular Modeling:** Molecular docking, Protein–ligand interactions, Dimerization, MD trajectory analysisRMSD / RMSF analysis, Binding pocket visualization, Clustering techniques<br>
+**Bioinformatics:** Variant Calling, QC, Trimmomatic, GATK, BWA, AlphaFold, PyMOL, ClustalW, GATK, Sequence alignment, Phylogenetic analysis, Pipeline development, protein/nucleotide secondary and tertiary structure prediction and validation<br>
+**Clinical & Laboratory Practices:** Aseptic techniques, Microbial culture & identification, Automated pathogen detection (VITEK®-2), Immunoassays (ELISA, HIV Spot, HCV Spot), Clinical sample processing, Biosafety compliance (GCP, SOP, cGMP), Diagnostic data recording & management<br>
+**Analytical Techniques:** High-pressure reactor, HPLC, GC-MS, Centrifuge, Chromatography, Tubular Furnace, Rotary Evaporator, ICP-OES
 
 ## Certification courses
-**[R Programming: Advanced Analytics In R For Data Science on Udemy, Jun 2021](https://www.udemy.com/course/r-analytics/?gclid=CjwKCAjwzuqgBhAcEiwAdj5dRo-IzIGskbBdleP0G14WAEtzL2GWL3PoRdXO_FGOrI58h3PPlFnahRoCZjgQAvD_BwE)**<br> 
-This course provided me with a strong foundation in data preparation techniques in R, which helped me delve deeper into data pre-processing, data manipulation, data visualization and analysis. Throughout the course, some tasks that I learned was how to identify and locate missing records in dataframes, how to apply the Median Imputation and Factual Analysis methods to replace missing records. To help work with missing data, I learned how to use some functions and techniques to minimize loss of data and how to reset the dataframe index. Additionally, I gained experience working with the gsub() and sub() functions for replacing strings. One of the most interesting concepts I learned in the course was the importance of NA as a third type of logical constant to help handle missing data in my datasets. By completing this course, I had a strong fundamental foundation for working with data in R, the multitude of functions to efficiently analyze data and apply advanced techniques to handle all kinds of data as a pre-requisite for machine learning efforts. 
+**[Bacterial strain Taxonomy for Genomis Surveillance: Offered by European Centre for Disease Prevention and Control, Oct 2025]**<br>
+An advanced course focused on the theoretical and practical aspects of bacterial strain taxonomy in the context of genomic surveillance. The program emphasized the use of whole-genome sequencing data for accurate strain classification, nomenclature, and typing, supporting standardized pathogen identification across laboratories and surveillance networks. Key topics included interpretation of phylogenetic relationships, strain relatedness, and evolutionary patterns to inform outbreak investigation and public health monitoring. The course also highlighted the importance of data quality, harmonized analytical workflows, and reproducible methodologies for reliable genomic surveillance. Through case-based examples, the training demonstrated how taxonomy-driven genomic analysis supports antimicrobial resistance tracking, epidemiological studies, and evidence-based public health decision-making at national and international levels.
 
-**[Whole genome sequencing of bacterial genomes: Offered by Technical University of Denmark on Coursera, Mar 2020](https://www.coursera.org/learn/wgs-bacteria)**<br>
-In this course, I learned about Whole genome sequencing (WGS) of bacterial genomes, which has become increasingly important in the medical sector. As classical methods were being replaced by WGS technology, bioinformatic tools became essential for analyzing the data and obtaining useful results. By the end of the course, I had a solid understanding of the applications of WGS in surveillance of bacteria, including species identification, typing, and characterization of antimicrobial resistance and virulence traits, as well as plasmid characterization. Throughout the course, I had the opportunity to learn about various online tools and how to use them through demonstrations and exercises. These tools were freely available and enabled me to effectively analyze WGS data.
+**[Next Generation Sequencing (NGS) - Applications and Data Analysis: Offered by Dayananda Sagar College of Engineering, Nov 2024]**<br> 
+Comprehensive training program focused on the principles, applications, and analytical workflows of next-generation sequencing technologies. The course covered major NGS platforms and sequencing strategies, along with end-to-end data analysis pipelines including quality control, read preprocessing, alignment, variant detection, and functional interpretation. Emphasis was placed on handling large-scale sequencing datasets and understanding experimental design considerations for genomics, transcriptomics, and pathogen sequencing studies. The training also addressed best practices for data quality assessment, reproducible analysis, and interpretation of sequencing results in biological and clinical contexts. Through applied examples, the course demonstrated how NGS-driven data analysis supports research in areas such as genomic surveillance, disease diagnostics, and biomedical discovery.
 
-**[The science of stem cells: Offered by American Museum of Natural History on Coursera, Jan 2020](https://www.coursera.org/learn/stem-cells)**<br>
-In this five-part online course, I explored the promise that stem cells hold for the treatment of medical conditions. I learned about the history and basic biology of stem cells, as well as new research techniques. Through the course, I discovered how stem cells could lead to cures for diseases and to individualized medicine. I had the opportunity to hear from Museum scientists, medical researchers at the frontiers of the field, and a panel of bioethics experts who addressed the ethical implications of stem cell research and therapy. I gained a better understanding of what has already been accomplished in the field of stem cell research, what challenges remain, and what medical breakthroughs may lie ahead.
+**[Molecular Dynamic Simulation using GROMACS: Offered by Dayananda Sagar College of Engineering, Feb 2024]**<br>
+Completed a specialized training focused on performing molecular dynamics (MD) simulations using the GROMACS software package. The course covered the theoretical foundations of molecular dynamics, including force fields, system solvation, energy minimization, equilibration, and production runs. Practical components emphasized setting up biomolecular systems, selecting simulation parameters, and executing MD simulations on Linux-based environments. The training also included post-simulation trajectory analysis, such as RMSD, RMSF, and interaction stability assessment, to evaluate structural behavior over time. Emphasis was placed on interpreting simulation results in the context of protein stability and protein–ligand interactions. Through hands-on exercises, the course demonstrated how MD simulations using GROMACS support structure-based drug discovery and biomolecular research.
 
-**[Genomic Data Science: Offered by Johns Hopkins University on Coursera, Nov 2019](https://www.coursera.org/specializations/genomic-data-science)**<br>
-Through this course, I was able to gain insights about how genomics is revolutionizing medical discoveries and that it's neccessity in understanding the genome and leverage the data and information from genomic datasets. The course covered the concepts and tools to understand, analyze, and interpret data from next-generation sequencing experiments. Through this course, I learned about the most common tools used in genomic data science, including the use of the command line, along with a variety of software implementation tools like Python, R, and Bioconductor. The course was designed to serve as both a standalone introduction to genomic data science or as a perfect complement to a primary degree or postdoc in biology, molecular biology, or genetics. As a scientist in these fields, seeking to gain familiarity in data science and statistical tools to better interact with the data in my everyday work, I found this course to be highly valuable.
+**[Linux Commands and Bash Scripting, Jan 2024]**<br>
+This course focused on effective use of Linux operating systems and Bash scripting for computational and data-intensive workflows. The course covered essential Linux commands for file system navigation, file manipulation, process management, and environment configuration. Emphasis was placed on writing Bash scripts to automate repetitive tasks, manage software dependencies, and streamline data processing pipelines. The training included working with shell utilities for text processing, job control, and basic system monitoring, as well as handling permissions and directory structures in multi-user environments. Through hands-on exercises, the course demonstrated how Linux command-line proficiency and Bash scripting are applied in high-performance computing environments and bioinformatics workflows to improve efficiency, reproducibility, and scalability of data analysis tasks.
