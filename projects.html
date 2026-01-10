@@ -2,15 +2,36 @@
 layout: page
 title: Projects
 ---
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-              <a class="url" href="{% if post.externallink %}{{ post.externallink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Lists Example</title>
+</head>
+<body>
+
+    <h1>Unordered List (Shopping List)</h1>
+    <p>This list uses bullet points because the order of items doesn't matter.</p>
+    
+    <!-- The data is embedded within the <ul> and <li> tags below -->
+    <ul>
+        <li>Genomic analysis of insertion sequences and composite transposons as key drivers of carbapenem resistance
+dissemination in Acinetobacter baumannii among Indian isolates</li>
+        <li>Investigation of the interaction between Selective Receptor Modulators and the FFAR2-FFAR3
+heterodimer complex using in-silico methods for the prevention of Degenerative diseases</li>
+        <li>Production of Biodiesel from Neem seed</li>
+    </ul>
+
+    <h1>Ordered List (Instructions)</h1>
+    <p>This list is numbered because the sequence of steps is important.</p>
+
+    <!-- The data is embedded within the <ol> and <li> tags below -->
+    <ol>
+        <li>Step one: Turn on the device.</li>
+        <li>Step two: Log in with your credentials.</li>
+        <li>Step three: Click the start button.</li>
+    </ol>
+
+</body>
+</html>
