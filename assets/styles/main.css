@@ -1202,13 +1202,13 @@ pre {
     max-width: 900px !important;
     height: auto !important;
 }
-img[src="/assets/images/graduation3.jpg"] {
-  width: 495px !important;     /* Wider */
-  height: 405px !important;    /* Shorter = sleeping oval */
+img[src*="/assets/images/graduation3.jpg"],
+img[src$="graduation3.jpg"],
+img[src*="graduation3"] {
+  width: 495px !important;      /* EVEN BIGGER */
+  height: 405px !important;     /* Matches oval ratio */
+  min-width: 495px !important;  /* Forces minimum size */
+  max-width: 495px !important;  /* Prevents shrinking */
   border-radius: 50% !important;
   object-fit: cover !important;
-  display: block !important;
-  image-rendering: -webkit-optimize-contrast;  /* Sharper edges */
-  image-rendering: crisp-edges;                 /* Better quality */
-  image-rendering: pixelated;                   /* Maximum sharpness */
 }
