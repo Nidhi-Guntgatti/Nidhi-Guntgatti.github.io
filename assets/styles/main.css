@@ -1202,7 +1202,7 @@ pre {
     max-width: 900px !important;
     height: auto !important;
 }
-img[src="/assets/images/graduation1.jpg"] {
+img[src="/assets/images/graduation.jpg"] {
   width: 220px !important;     /* Wider */
   height: 200px !important;    /* Shorter = sleeping oval */
   border-radius: 50% !important;
