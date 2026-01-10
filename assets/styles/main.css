@@ -1203,8 +1203,8 @@ pre {
     height: auto !important;
 }
 img[src="/assets/images/graduation2.jpg"] {
-  width: 220px !important;     /* Wider */
-  height: 200px !important;    /* Shorter = sleeping oval */
+  width: 330px !important;     /* Wider */
+  height: 270px !important;    /* Shorter = sleeping oval */
   border-radius: 50% !important;
   object-fit: cover !important;
   display: block !important;
