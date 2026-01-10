@@ -3,12 +3,9 @@ name: Nidhi Anil Guntgatti
 bio: 'Bioinformatics Research Intern at Central Research Laboratory'
  
 # if it's an external image, update below for true
-
-     <img src="assets/images/grad.JPG" 
-     alt="Nidhi Anil Guntgatti" 
-     style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-
-
+# if it's an external image, update below for true
+external-image: false
+picture: 'assets/images/grad.JPG'
 
 url: https://nidhi-guntgatti.github.io/
 # your url: http://USERNAME.github.io (if you don't already have a site)
