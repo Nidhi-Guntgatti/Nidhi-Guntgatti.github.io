@@ -5,7 +5,8 @@ bio: 'Bioinformatics Research Intern at Central Research Laboratory'
 # if it's an external image, update below for true
 # if it's an external image, update below for true
 
-<img src="/assets/images/graduation.jpg" style="width:240px;height:150px;border-radius:50%;object-fit:cover;">
+external-image: false
+picture: 'assets/images/graduation1.jpg'
 
 url: https://nidhi-guntgatti.github.io/
 # your url: http://USERNAME.github.io (if you don't already have a site)
