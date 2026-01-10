@@ -1202,20 +1202,11 @@ pre {
     max-width: 900px !important;
     height: auto !important;
 }
-img[src*="graduation.jpg"] {
-  /* Force a perfect square container */
-  width: 150px !important;
-  height: 150px !important;
-  min-width: 150px !important;
-  max-width: 150px !important;
-  
-  /* The "Secret Sauce" for ovals */
-  object-fit: cover !important; 
-  border-radius: 50% !important;
-  
-  /* Backup: If border-radius fails, this cuts a physical circle */
-  clip-path: circle(50% at 50% 50%);
+.custom-oval-avatar {
+  width: 200px;    /* Width of oval */
+  height: 160px;   /* Height (shorter = more oval) */
+  border-radius: 50%;  /* Creates sleeping oval */
+  overflow: hidden;
+  display: inline-block;
+  margin: 0 auto;
 }
-
-
-
