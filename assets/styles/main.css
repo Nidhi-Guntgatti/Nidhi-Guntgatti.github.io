@@ -1208,4 +1208,7 @@ img[src="/assets/images/graduation2.jpg"] {
   border-radius: 50% !important;
   object-fit: cover !important;
   display: block !important;
+  image-rendering: -webkit-optimize-contrast;  /* Sharper edges */
+  image-rendering: crisp-edges;                 /* Better quality */
+  image-rendering: pixelated;                   /* Maximum sharpness */
 }
