@@ -1203,10 +1203,19 @@ pre {
     height: auto !important;
 }
 img[src*="grad.JPG"] {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  clip-path: circle(50% at 50% 50%); /* Cuts a circle regardless of container shape */
+  /* Force a perfect square container */
+  width: 150px !important;
+  height: 150px !important;
+  min-width: 150px !important;
+  max-width: 150px !important;
+  
+  /* The "Secret Sauce" for ovals */
+  object-fit: cover !important; 
+  border-radius: 50% !important;
+  
+  /* Backup: If border-radius fails, this cuts a physical circle */
+  clip-path: circle(50% at 50% 50%);
 }
+
 
 
