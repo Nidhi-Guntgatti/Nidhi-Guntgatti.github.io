@@ -1203,9 +1203,12 @@ pre {
     height: auto !important;
 }
 img[src*="grad.JPG"] {
-  width: 150px;           /* Adjust size as needed */
-  height: 150px;          /* Must be equal to width for a circle */
-  border-radius: 50%;     /* This creates the circle shape */
-  object-fit: cover;      /* Prevents the image from stretching */
-  border: 3px solid #fff; /* Optional: adds a white border */
+  width: 150px;           /* Set a fixed width */
+  height: 150px;          /* MUST match the width for a circle */
+  aspect-ratio: 1 / 1;    /* Forces a square shape */
+  border-radius: 50%;     /* Turns the square into a circle */
+  object-fit: cover;      /* Crops the rectangle image to fit without stretching */
+  object-position: center; /* Centers the crop on your face */
+  display: block;         /* Removes extra bottom spacing */
 }
+
