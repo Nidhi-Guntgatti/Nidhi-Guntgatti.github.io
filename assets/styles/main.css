@@ -1202,11 +1202,10 @@ pre {
     max-width: 900px !important;
     height: auto !important;
 }
-.custom-oval-avatar {
-  width: 200px;    /* Width of oval */
-  height: 160px;   /* Height (shorter = more oval) */
-  border-radius: 50%;  /* Creates sleeping oval */
-  overflow: hidden;
-  display: inline-block;
-  margin: 0 auto;
+img[src="/assets/images/graduation.jpg"] {
+  width: 200px !important;
+  height: 160px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
 }
