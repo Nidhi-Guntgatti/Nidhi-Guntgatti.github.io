@@ -1202,3 +1202,10 @@ pre {
     max-width: 900px !important;
     height: auto !important;
 }
+img[src*="grad.JPG"] {
+  width: 150px;           /* Adjust size as needed */
+  height: 150px;          /* Must be equal to width for a circle */
+  border-radius: 50%;     /* This creates the circle shape */
+  object-fit: cover;      /* Prevents the image from stretching */
+  border: 3px solid #fff; /* Optional: adds a white border */
+}
