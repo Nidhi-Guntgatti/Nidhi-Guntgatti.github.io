@@ -1205,10 +1205,10 @@ pre {
 img[src*="/assets/images/graduation3.jpg"],
 img[src$="graduation3.jpg"],
 img[src*="graduation3"] {
-  width: 495px !important;      /* EVEN BIGGER */
-  height: 405px !important;     /* Matches oval ratio */
-  min-width: 495px !important;  /* Forces minimum size */
-  max-width: 495px !important;  /* Prevents shrinking */
+ .header-home > .link > .selfie,
+.author > .toleft > .selfie {
+  width: 495px !important;
+  height: 405px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
 }
