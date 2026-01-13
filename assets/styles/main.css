@@ -1212,3 +1212,9 @@ pre {
 .big-selfie {
   outline: 3px solid red;
 }
+.big-selfie {
+  width: 600px !important;
+  height: 400px !important;
+  background: yellow !important;
+  border: 5px solid red !important;
+}
