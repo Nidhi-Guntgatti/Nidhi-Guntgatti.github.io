@@ -1203,8 +1203,8 @@ pre {
     height: auto !important;
 }
 .big-selfie {
-  width: 495px !important;
-  height: 405px !important;
+  width: 480px !important;
+  height: 380px !important;   /* smaller height = oval */
   max-width: none !important;
   border-radius: 50% !important;
   object-fit: cover !important;
