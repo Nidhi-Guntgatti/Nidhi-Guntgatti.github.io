@@ -1195,3 +1195,18 @@ pre {
      image-rendering: auto;
   transform: none !important;
 }
+.selfie {
+  width: 330px !important;
+  height: 250px !important;
+
+  max-width: none !important;
+
+  object-fit: cover !important;
+  border-radius: 50% !important;
+
+  transform: none !important;
+  filter: none !important;
+}
+.selfie {
+  image-rendering: auto !important;
+}
