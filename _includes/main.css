@@ -1213,8 +1213,9 @@ pre {
 /* Merlot theme avatar override */
 img.selfie,
 img[src*="graduation"] {
-  width: 330px !important;
-  height: 250px !important;
+
+  width: 400px !important;
+  height: 500px !important;
 
   max-width: none !important;
 
