@@ -1187,8 +1187,8 @@ pre {
           transition: all ease-in-out 0.2s;
 }
 .big-selfie {
-  width: 495px !important;
-  height: 405px !important;   /* smaller height = oval */
+  width: 330px !important;
+  height: 250px !important;   /* smaller height = oval */
   max-width: none !important;
   border-radius: 50% !important;
   object-fit: cover !important;
