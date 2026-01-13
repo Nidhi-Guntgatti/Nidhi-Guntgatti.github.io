@@ -1202,28 +1202,10 @@ pre {
     max-width: 900px !important;
     height: auto !important;
 }
-
- .header-home > .link > .selfie,
-.author > .toleft > .selfie {
+.big-selfie {
   width: 495px !important;
   height: 405px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-}
-.selfie {
-  width: 400px !important;
-  height: 400px !important;
   max-width: none !important;
   border-radius: 50% !important;
   object-fit: cover !important;
 }
-.header-home > .link {
-  width: 420px !important;
-  max-width: none !important;
-}
-
-.author > .toleft {
-  width: 420px !important;
-  max-width: none !important;
-}
-
