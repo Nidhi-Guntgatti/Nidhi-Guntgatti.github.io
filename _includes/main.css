@@ -1186,3 +1186,19 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
+.big-selfie {
+  width: 480px !important;
+  height: 380px !important;   /* smaller height = oval */
+  max-width: none !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+}
+.big-selfie {
+  outline: 3px solid red;
+}
+.big-selfie {
+  width: 600px !important;
+  height: 400px !important;
+  background: yellow !important;
+  border: 5px solid red !important;
+}
