@@ -1209,3 +1209,6 @@ pre {
   border-radius: 50% !important;
   object-fit: cover !important;
 }
+.big-selfie {
+  outline: 3px solid red;
+}
