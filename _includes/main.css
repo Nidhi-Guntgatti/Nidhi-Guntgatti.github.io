@@ -1214,8 +1214,8 @@ pre {
 img.selfie,
 img[src*="graduation"] {
 
-  width: 400px !important;
-  height: 500px !important;
+  width: 300px !important;
+  height: 300px !important;
 
   max-width: none !important;
 
