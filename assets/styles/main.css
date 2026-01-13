@@ -1202,9 +1202,7 @@ pre {
     max-width: 900px !important;
     height: auto !important;
 }
-img[src*="/assets/images/graduation3.jpg"],
-img[src$="graduation3.jpg"],
-img[src*="graduation3"] {
+
  .header-home > .link > .selfie,
 .author > .toleft > .selfie {
   width: 495px !important;
