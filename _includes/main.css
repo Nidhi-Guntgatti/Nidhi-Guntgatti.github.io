@@ -1210,3 +1210,19 @@ pre {
 .selfie {
   image-rendering: auto !important;
 }
+/* Merlot theme avatar override */
+img.selfie,
+img[src*="graduation"] {
+  width: 330px !important;
+  height: 250px !important;
+
+  max-width: none !important;
+
+  object-fit: cover !important;
+  border-radius: 50% !important;
+
+  transform: none !important;
+  filter: none !important;
+
+  image-rendering: auto !important;
+}
