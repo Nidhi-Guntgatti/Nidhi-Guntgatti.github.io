@@ -1210,3 +1210,20 @@ pre {
   border-radius: 50% !important;
   object-fit: cover !important;
 }
+.selfie {
+  width: 400px !important;
+  height: 400px !important;
+  max-width: none !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+}
+.header-home > .link {
+  width: 420px !important;
+  max-width: none !important;
+}
+
+.author > .toleft {
+  width: 420px !important;
+  max-width: none !important;
+}
+
