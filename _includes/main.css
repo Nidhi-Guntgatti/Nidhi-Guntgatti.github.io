@@ -832,8 +832,8 @@ pre {
   text-align: center;
 }
 .header-home > .link > .selfie {
-  width: 125px;
-  margin-bottom: 15px;
+  width: 100px;
+  margin-bottom: 25px;
   border-radius: 100%;
   -webkit-transition: all 0.2s;
           transition: all 0.2s;
