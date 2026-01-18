@@ -1188,7 +1188,7 @@ pre {
 }
 /* Merlot theme avatar override */
 img.big-selfie,
-img[src*="graduation"] {
+img[src*="graduation3_v2"] {
   /* Use width to set the size, let aspect-ratio handle the rest */
   width: 300px !important;
   aspect-ratio: 1 / 1 !important; 
