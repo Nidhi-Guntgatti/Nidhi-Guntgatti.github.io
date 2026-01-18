@@ -1186,44 +1186,24 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
-.big-selfie {
-  width: 330px !important;
-  height: 250px !important;   /* smaller height = oval */
-  max-width: none !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-     image-rendering: auto;
-  transform: none !important;
-}
-.selfie {
-  width: 330px !important;
-  height: 250px !important;
-
-  max-width: none !important;
-
-  object-fit: cover !important;
-  border-radius: 50% !important;
-
-  transform: none !important;
-  filter: none !important;
-}
-.selfie {
-  image-rendering: auto !important;
-}
 /* Merlot theme avatar override */
-img.selfie,
+img.big-selfie,
 img[src*="graduation"] {
-
+  /* Use width to set the size, let aspect-ratio handle the rest */
   width: 300px !important;
-  height: 300px !important;
+  aspect-ratio: 1 / 1 !important; 
+  height: auto !important; 
 
-  max-width: none !important;
-
+  /* Keep the circle shape */
   object-fit: cover !important;
   border-radius: 50% !important;
 
+  /* Sharpness Fix: Tells the browser to prioritize quality */
+  image-rendering: -webkit-optimize-contrast !important;
+  image-rendering: high-quality !important;
+
+  /* Reset overrides */
+  max-width: none !important;
   transform: none !important;
   filter: none !important;
-
-  image-rendering: auto !important;
 }
